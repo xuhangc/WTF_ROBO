@@ -40,20 +40,40 @@
 [2023](https://dblp.org/db/journals/scirobotics/scirobotics8.html)
 
 ### T-RO
+[2025](https://dblp.org/db/journals/trob/trob41.html)
 
+[2024](https://dblp.org/db/journals/trob/trob40.html)
 
+[2023](https://dblp.org/db/journals/trob/trob39.html)
 
 ### IJRR
 
+https://dblp.org/db/journals/ijrr/index.html
+
 ### JFR
+
+https://dblp.org/db/journals/jfr/index.html
 
 ### T-MECH
 
 ### T-ASE
 
+https://dblp.org/db/journals/tase/index.html
+
 ### RA-L
+[2025](https://dblp.org/db/journals/ral/ral10.html)
+
+[2024](https://dblp.org/db/journals/ral/ral9.html)
+
+[2023](https://dblp.org/db/journals/ral/ral8.html)
 
 ### RAS
 
+https://dblp.org/db/journals/ras/index.html
+
 ### RAM
+
+### AURO
+
+https://dblp.org/db/journals/arobots/index.html
 
