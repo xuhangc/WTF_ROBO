@@ -33,8 +33,15 @@
 ## Journals
 
 ### Science Robotics	
+[2025](https://dblp.org/db/journals/scirobotics/scirobotics10.html)
+
+[2024](https://dblp.org/db/journals/scirobotics/scirobotics9.html)
+
+[2023](https://dblp.org/db/journals/scirobotics/scirobotics8.html)
 
 ### T-RO
+
+
 
 ### IJRR
 
