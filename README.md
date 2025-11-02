@@ -3,47 +3,47 @@
 ## Conferences
 
 ### ICRA
-[2025](https://github.com/DoongLi/ICRA2025-Paper-List)
+[2025](https://dblp.org/db/conf/icra/icra2025.html)
 
-[2024](https://github.com/ryanbgriffiths/ICRA2024PaperList)
+[2024](https://dblp.org/db/conf/icra/icra2024.html)
 
-[2023](https://github.com/ryanbgriffiths/ICRA2023PaperList)
+[2023](https://dblp.org/db/conf/icra/icra2023.html)
 
-[2022](https://github.com/gonultasbu/ICRA2022PaperList)
+[2022](https://dblp.org/db/conf/icra/icra2022.html)
 
-[2021](https://github.com/dectrfov/ICRA2021PaperList)
+[2021](https://dblp.org/db/conf/icra/icra2021.html)
 
-[2020](https://github.com/PaoPaoRobot/ICRA2020-paper-list)
+[2020](https://dblp.org/db/conf/icra/icra2020.html)
 
-[2019](https://github.com/PaoPaoRobot/ICRA2019-paper-list)
+[2019](https://dblp.org/db/conf/icra/icra2019.html)
 
 ### IROS
 [2025](https://github.com/DoongLi/IROS2025-Paper-List)
 
-[2024](https://github.com/ryanbgriffiths/IROS2024PaperList)
+[2024](https://dblp.org/db/conf/iros/iros2024.html)
 
-[2023](https://github.com/ryanbgriffiths/IROS2023PaperList)
+[2023](https://dblp.org/db/conf/iros/iros2023.html)
 
-[2022](https://github.com/PaoPaoRobot/IROS2022-paper-list)
+[2022](https://dblp.org/db/conf/iros/iros2022.html)
 
-[2021](https://github.com/dectrfov/IROS2021PaperList)
+[2021](https://dblp.org/db/conf/iros/iros2021.html)
 
-[2020](https://github.com/PaoPaoRobot/IROS2020-paper-list)
+[2020](https://dblp.org/db/conf/iros/iros2020.html)
 
-[2019](https://github.com/PaoPaoRobot/IROS2019-paper-list)
+[2019](https://dblp.org/db/conf/iros/iros2019.html)
 
 ### CoRL
 [2025](https://github.com/shu1ong/CORL2025-Paper-List)
 
-[2024](https://2024.corl.org/program/papers)
+[2024](https://dblp.org/db/conf/corl/corl2024.html)
 
-[2023](https://www.corl2023.org/papers)
+[2023](https://dblp.org/db/conf/corl/corl2023.html)
 
-[2022](https://staging-dapeng.papercopilot.com/paper-list/corl-paper-list/corl-2022-paper-list)
+[2022](https://dblp.org/db/conf/corl/corl2022.html)
 
-[2021](https://papercopilot.com/paper-list/corl-paper-list/corl-2021-paper-list/)
+[2021](https://dblp.org/db/conf/corl/corl2021.html)
 
-[2020](https://corlconf.github.io/corl2020/all)
+[2020](https://dblp.org/db/conf/corl/corl2020.html)
 
 [2019](https://dblp.org/db/conf/corl/corl2019.html)
 
